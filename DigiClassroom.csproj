@@ -13,6 +13,7 @@
 		<PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.0" />
 		<PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="5.0.0" />
 		<PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Razor" Version="2.2.0" />
 		<PackageReference Include="Microsoft.Bcl.Async" Version="1.0.168" />
 		<PackageReference Include="Microsoft.Data.Sqlite" Version="5.0.0" />
 		<PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="5.0.0" />
